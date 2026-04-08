@@ -2,6 +2,9 @@
 
 💻 Full Stack Developer | .NET Enthusiast
 🚀 Passionate about building scalable backend systems and modern web applications
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=F75C7E&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+.NET+Developer;Building+Scalable+Applications;Always+Learning+New+Technologies" />
+</p>
 
 ---
 
