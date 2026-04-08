@@ -1,4 +1,4 @@
-# 👋 Hi, I'm AJITH V RAj
+# 👋 Hi, I'm AJITH V RAJ
 
 💻 Full Stack Developer | .NET Enthusiast
 🚀 Passionate about building scalable backend systems and modern web applications
