@@ -19,28 +19,29 @@
 
 ### 🔹 Backend
 
-* ASP.NET Core
-* Web API
-* Entity Framework Core
-* SQL Server
-* Redis (Caching & Performance Optimization)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?logo=dotnet&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF%20Core-512BD4)
+![SQL Server](https://img.shields.io/badge/SQL--Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
+![Stored Procedures](https://img.shields.io/badge/Stored%20Procedures-CC2927?logo=microsoftsqlserver&logoColor=white)
+
 
 ### 🔹 Frontend
-
-* React.js
-* Next.js
-* Tailwind CSS
-* shadcn/ui
-* HTML5, CSS3
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
 ### 🔹 Tools & Technologies
 
-* Git & GitHub
-* Postman
-* Visual Studio
-* REST API Development
-
----
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/VS-5C2D91?logo=visualstudio&logoColor=white)
 
 ## 🌱 Currently Learning
 
@@ -48,6 +49,8 @@
 * Distributed Caching with Redis
 * API Optimization & Performance
 * System Design Fundamentals
+* Data Structure and Algorythm 
+  
 
 ---
 
